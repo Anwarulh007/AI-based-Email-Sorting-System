@@ -2,7 +2,7 @@
 This Python code utilizes Naive Bayes classification to categorize emails into different groups for the betterment of the users.
 
 <p align="center"> 
- <img src="https://github.com/Anwarulh007/AI-based-Email-Sorting-System/blob/main/Email%20sort.jpg" alt="AI-Based Email Sorting System" style="width: auto; height: 400px;"/> 
+ <img src="https://github.com/Anwarulh007/AI-based-Email-Sorting-System/blob/main/Email%20sort.jpg" alt="AI-Based Email Sorting System" style="width: auto; height: 200px;"/> 
 </p>
 
 **Dataset Overview**
