@@ -32,9 +32,9 @@ This Python code utilizes Naive Bayes classification to categorize emails into d
 </p>
 
 ## Output:
-# Email: 'Urgent: Project deadline extension' => Predicted Category: 'Work'
-# Email: 'Family gathering this Sunday' => Predicted Category: 'Personal'
-# Email: 'Limited time offer: Buy one, get one free' => Predicted Category: 'Promotions'
+* Email: 'Urgent: Project deadline extension' => Predicted Category: 'Work'
+* Email: 'Family gathering this Sunday' => Predicted Category: 'Personal'
+* Email: 'Limited time offer: Buy one, get one free' => Predicted Category: 'Promotions'
 
 **Technology Used**
 
