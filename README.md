@@ -50,6 +50,18 @@ This Python code utilizes Naive Bayes classification to categorize emails into d
 * Replace the placeholder email data in the new_emails list with your own emails for testing.
 * Run the script.
 
+## Contributing 🤝
+
+
+We welcome your contributions to enhance the platform and improve user experience! Feel free to open a pull request or issue if you have any suggestions or features to add.
+
+## Contribution Guidelines:
+
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make your changes and submit a pull request.
+
 **Recommendations**
 
 This is a basic example. Real-world email classification might require more sophisticated techniques and data pre-processing.
